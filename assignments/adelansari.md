@@ -1,4 +1,4 @@
-![Header](./assets/github-header-image.png)
+![Header](https://raw.githubusercontent.com/adelansari/adelansari/main/assets/github-header-image.png)
 
 ![profile_views](https://komarev.com/ghpvc/?username=adelansari&style=for-the-badge)
 
@@ -16,7 +16,7 @@
 - 🪄 Math wizard.
 
 <p align="center">
-  <img src="./assets/Octodex.gif" alt="busywork" height="350"  style="display: block;">
+  <img src="https://github.com/adelansari/adelansari/blob/main/assets/Octodex.gif?raw=true" alt="explore" height="350"  style="display: block;">
 </p>
 
 ### Skills
@@ -30,7 +30,7 @@
 - **Others:** Matlab, RESTful APIs, Tableau, LaTeX
 
 <p align="center">
-  <img src="./assets/busywork.gif" alt="busywork" height="400"  style="display: block;">
+  <img src="https://raw.githubusercontent.com/adelansari/adelansari/main/assets/busywork.gif" alt="busywork" height="400"  style="display: block;">
 </p>
 
 ### Stats
@@ -44,6 +44,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adel-ansari/">
-    <img src="./assets/linkedin_icon.gif" alt="LinkedIn" width="70" height="70" style="display: block;"> 
+    <img src="https://github.com/adelansari/adelansari/blob/main/assets/linkedin_icon.gif?raw=true" alt="LinkedIn" width="70" height="70" style="display: block;"> 
   </a>
 </p>
